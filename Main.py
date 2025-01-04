@@ -1,4 +1,4 @@
-from ID_Generator import id_generator_j1 as ID  #Importing the required id
+from ID_Generator import id_generator_1 as ID  #Importing the required id
 from time import sleep
 import pyautogui as py
 import Color_check as color
