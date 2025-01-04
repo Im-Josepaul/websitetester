@@ -4,9 +4,7 @@ This repository contains scripts I developed to automate the testing process for
 
 ## Background
 
-During my testing, I found a severe vulnerability in the **Campus Book** website used for campus-related tasks. It stored and showed personal information of students, hence it was prone to leaking data from outside parties or companies.
-
-I created this project to expose these security flaws. My college has, as a result, replaced the **Campus Book** website with **Etlab**, which is a much more secure alternative.
+During my testing, I found a severe vulnerability in the **Campus Book** website used for campus-related tasks. It stored and showed personal information of students, hence it was prone to leaking data from outside parties or companies. I created this project to expose these security flaws.
 
 ## Project Overview
 
@@ -26,7 +24,7 @@ This repository contains three scripts, each serving a distinct purpose:
 
 ## Impact
 
-The findings from this project have shown the requirement for better security in web applications. Because of these scripts, the college replaced its vulnerable website with a new one, ensuring better protection of student data.
+The findings from this project have shown the requirement for better security in storing student personal data. Because of these scripts, the college replaced its vulnerable campusbook website with etlab, ensuring better protection of student data.
 
 ## Usage
 
